@@ -1,0 +1,47 @@
+# Unreal Engine
+
+# Build products
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Rider
+*.sln.DotSettings.user
+
+# Generated project files
+*.VC.db
+*.VC.opendb
+*.suo
+*.opensdf
+*.sdf
+*.user
+*.userprefs
+
+# Logs
+*.log
+
+# Crash reports
+crashinfo--*
+
+# Mac
+.DS_Store
+
+# Linux
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
+
+# Keep Content and Config folders
+!Content/
+!Config/
+!Source/
+!Plugins/
